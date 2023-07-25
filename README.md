@@ -10,11 +10,11 @@
 
 <h2>Microservice</h2>
 
-- API that consumes USDA snap approved farmers markets csv data and exposes that data for backend application consumption.
+- API that consumes USDA snap approved farmer market csv data and exposes that data for backend application consumption.
   - The USDA Supplemental Nutrition Assistance Program (SNAP) Benifits list can be found here: https://www.fns.usda.gov/snap/farmers-markets-accepting-snap-benefits
 
 <h2>BE</h2>
-- Consumes the microservice to get SNAP approved farmers markets. <br>
+- Consumes the microservice to get SNAP approved farmer markets. <br>
 
 <h3>Getting started</h3>
 
