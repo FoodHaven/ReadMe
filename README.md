@@ -2,7 +2,7 @@
 
 <h2>FE</h2>
 
-- Food Haven is an App for people to find nearby USDA Supplemental Nutrition Assistance Program (SNAP) approved farmer markets, and nearby public transportation available.
+- Food Haven is an App for people to find nearby Supplemental Nutrition Assistance Program (SNAP) approved farmer markets, and nearby public transportation available.
 
 <h3>For Developers:</h3>
 
