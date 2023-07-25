@@ -6,6 +6,8 @@
 
 <h3>For Developers:</h3>
 
+Rails Version: 7.0.6
+
 <h4>Gems</h4>
 
 <h2>Microservice</h2>
@@ -17,6 +19,8 @@
 - Consumes the microservice to get SNAP approved farmer markets. <br>
 
 <h3>Getting started</h3>
+
+Rails Version: 7.0.6
 
 - Run `bundle install` to get all Gems to work properly
 
