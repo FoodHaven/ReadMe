@@ -2,7 +2,7 @@
 
 <h2>FE</h2>
 
-- Food Haven is an App for people to find nearby Supplemental Nutrition Assistance Program (SNAP) approved farmer markets, and nearby public transportation available.
+- Food Haven is an App for people to find nearby farmer markets that accept Supplemental Nutrition Assistance Program (SNAP), and nearby public transportation available.
 
 <h3>For Developers:</h3>
 
@@ -32,7 +32,7 @@
 <h4>Gems</h4>
 
 - Geocoder
-  - Used to find geolocation of user in order to find nearby SNAP markets and transit options
+  - Used to find geolocation of user in order to find nearby farmer markets that accept SNAP and transit options
   - Documentation for Geocoder can be found here: https://github.com/alexreisner/geocoder
     
 - Faraday
