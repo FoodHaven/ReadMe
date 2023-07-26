@@ -13,7 +13,7 @@ Rails Version: 7.0.6
 <h2>Microservice</h2>
 
 - API that consumes USDA snap approved farmer market csv data and exposes that data for backend application consumption.
-  - The USDA Supplemental Nutrition Assistance Program (SNAP) Benifits list can be found here: https://www.fns.usda.gov/snap/farmers-markets-accepting-snap-benefits
+  - USDA Farmer Markets data table that include farmer markets accepting Supplemental Nutrition Assistance Program (SNAP) Benifits can be found here: (https://www.usdalocalfoodportal.com/fe/datasharing/)
 
 <h2>BE</h2>
 - Consumes the microservice to get SNAP approved farmer markets. <br>
