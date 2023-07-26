@@ -1,22 +1,67 @@
 <h1>Food Haven</h1>
 
-<h2>FE</h2>
-
 - Food Haven is an App for people to find nearby farmer markets that accept Supplemental Nutrition Assistance Program (SNAP), and nearby public transportation available.
+
+<b>Developers:</b>
+
+Kailey Kaes: https://github.com/kaileykaes
+
+Jesse Sorman: https://github.com/Jesse193
+
+Kim Bergstrom: https://github.com/kbergstrom78
+
+Andy Stilmock: https://github.com/AStilmock
+
+<h2>FE: https://github.com/FoodHaven/FE_APP</h2> 
+
 
 <h3>For Developers:</h3>
 
+Dependencies: 
+
+Microservice: https://github.com/FoodHaven/microservice-api
+
+Back end: https://github.com/FoodHaven/BE_APP
+
+<h3>Getting started</h3>
+
 Rails Version: 7.0.6
+
+- Run `bundle install` to get all Gems to work properly
+
+- Run `rails db:{drop,create,migrate,seed}`
 
 <h4>Gems</h4>
 
-<h2>Microservice</h2>
+<h2>Microservice: https://github.com/FoodHaven/microservice-api</h2>
 
 - API that consumes USDA snap approved farmer market csv data and exposes that data for backend application consumption.
   - USDA Farmer Markets data table that include farmer markets accepting Supplemental Nutrition Assistance Program (SNAP) Benifits can be found here: (https://www.usdalocalfoodportal.com/fe/datasharing/)
 
-<h2>BE</h2>
+Dependencies: 
+
+Front End: https://github.com/FoodHaven/FE_APP
+
+Back end: https://github.com/FoodHaven/BE_APP
+
+<h3>Getting started</h3>
+
+Rails Version: 7.0.6
+
+- Run `bundle install` to get all Gems to work properly
+
+- Run `rails db:{drop,create,migrate,seed}`
+
+
+<h2>BE: https://github.com/FoodHaven/BE_APP</h2> 
 - Consumes the microservice to get SNAP approved farmer markets. <br>
+
+
+Dependencies: 
+
+Microservice: https://github.com/FoodHaven/microservice-api
+
+Front End: https://github.com/FoodHaven/FE_APP
 
 <h3>Getting started</h3>
 
