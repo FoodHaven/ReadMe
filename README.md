@@ -60,6 +60,12 @@ Rails Version: 7.0.6
 
 - Run `rails db:{drop,create,migrate,seed}`
 
+<h4>Gems</h4>
+
+- Geokit
+  - Provides geocoding and distance calculation abilities for Ruby on Rails applications.
+  - Documentation for Geokit can be found at: https://rubygems.org/gems/geokit
+  
 
 <h2>BE: https://github.com/FoodHaven/BE_APP</h2> 
 - Consumes the microservice to get SNAP approved farmer markets. <br>
