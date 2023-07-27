@@ -32,6 +32,18 @@ Rails Version: 7.0.6
 
 <h4>Gems</h4>
 
+- dotenv-rails
+  - Documentation for dotenv-rails can be found here: https://www.rubydoc.info/gems/dotenv-rails/2.1.1
+     
+- omniauth
+  - Documentation for omniauth can be found here: https://www.rubydoc.info/gems/omniauth/1.6.1
+
+- omniauth-google-ouath2
+  - Documentation for omniauth-google-outh2 can be found here: https://github.com/zquestz/omniauth-google-oauth2
+    
+- omni-rails_csrf_protection
+  - Documentation for omni-rails_csrf_protection can be found here: https://github.com/cookpad/omniauth-rails_csrf_protection
+
 - Faraday
   - Used for HTTP request to APIs 
   - Documentation for Faraday can be found here: https://lostisland.github.io/faraday/#/
