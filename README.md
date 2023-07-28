@@ -30,6 +30,10 @@ Rails Version: 7.0.6
 
 - Run `rails db:{drop,create,migrate,seed}`
 
+- Google Oauth 2.0
+  - Food Haven features Google Outh as an option to login. When using locally a  OAuth client ID and client secret are needed for this to function correctly.
+    You can follow the steps to get the required credentials here: https://developers.google.com/identity/protocols/oauth2/web-server  
+  
 <h4>Gems</h4>
 
 - dotenv-rails
