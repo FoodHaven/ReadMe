@@ -12,7 +12,7 @@ Kim Bergstrom: https://github.com/kbergstrom78
 
 Andy Stilmock: https://github.com/AStilmock
 
-<h2>FE: https://github.com/FoodHaven/FE_APP</h2> 
+<h2>FE: https://github.com/FoodHaven/FE_APP</h2>
 
 <h3>For Developers:</h3>
 
@@ -55,6 +55,10 @@ Rails Version: 7.0.6
 - Figaro
   - Used to mask API key(s) from files. 
   - Documentation for Figaro can be found here: https://rubygems.org/gems/figaro/versions/1.1.1
+    
+- jsbundling-rails
+  - Documentation for jsbundling-rails can be found here: https://github.com/rails/jsbundling-rails 
+
 
 
 <h2>Microservice: https://github.com/FoodHaven/microservice-api</h2>
