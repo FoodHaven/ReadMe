@@ -1,6 +1,6 @@
 <h1>Food Haven</h1>
 
-- Food Haven is an App for people to find nearby farmer markets that accept Supplemental Nutrition Assistance Program (SNAP), and nearby public transportation available.
+- In a world with food deserts, Food Haven supplies the public with location services for local farmer's markets. The search for markets focuses on farmer's markets that accept Supplemental Nutrition Assistance Program (SNAP) benefits and identifies the type of benefit assistance at the market if the data is available. The user can then select a market they wish to visit and utilizing the maps portion of the application, the user may locate public service transit routes and schedules available to connect them to the market from their current location. 
 
 <b>Developers:</b>
 
